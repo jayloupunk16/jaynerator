@@ -159,7 +159,7 @@ function App() {
 
            {/* similar character */}
            <div className='form-group'>
-          <label htmlFor='include-similar' className='spacing'>Include Similar: (egil1Lo0O)</label>
+          <label htmlFor='include-similar' className='spacing'>Includea Similar: (egil1Lo0O)</label>
            <input 
            checked={includeSimilar}
            onChange={(e) => setIncludeSimilar(e.target.checked)}
@@ -171,7 +171,7 @@ function App() {
 
           {/* button generate */}
 
-          <button onClick={handleGeneratePassword} className="generator_btn">Generate</button>
+          <button onClick={handleGeneratePassword} className="generator_btn">Generateqwe</button>
 
           <ToastContainer
             position='top-center'
