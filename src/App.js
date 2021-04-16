@@ -171,7 +171,7 @@ function App() {
 
           {/* button generate */}
 
-          <button onClick={handleGeneratePassword} className="generator_btn">Generates</button>
+          <button onClick={handleGeneratePassword} className="generator_btn">asjkhdjkqhwkjehkahsd</button>
 
           <ToastContainer
             position='top-center'
